@@ -1,5 +1,12 @@
 # TraceNest AI
 
+**Live demo:** https://tdumii.github.io/tracenest-ai/
+
+![Desktop view of the seven-lesson coding coach](./docs/desktop.png)
+
+[Mobile view](./docs/mobile.png) · [Prepared Devpost submission](./HACKATHON_SUBMISSION.md)
+
+
 A privacy-aware debugging coach for beginner Python and JavaScript learners. Built during **SLAY HACKS 2026** (Nov 7–Dec 7, 2026).
 
 **Problem:** Beginning programmers often paste a full error into a chatbot and get the complete solution without understanding why their reasoning failed.
